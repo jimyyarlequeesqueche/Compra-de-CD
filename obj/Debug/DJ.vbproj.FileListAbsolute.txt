@@ -1,0 +1,11 @@
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\bin\Debug\DJ.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\bin\Debug\DJ.exe
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\bin\Debug\DJ.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\bin\Debug\DJ.xml
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\obj\Debug\DJ.vbprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\obj\Debug\DJ.Form1.resources
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\obj\Debug\DJ.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\obj\Debug\DJ.vbproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\obj\Debug\DJ.exe
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\obj\Debug\DJ.xml
+c:\users\daniel\documents\visual studio 2015\Projects\DJ\DJ\obj\Debug\DJ.pdb
